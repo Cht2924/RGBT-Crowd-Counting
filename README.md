@@ -16,6 +16,14 @@ This repository contains the official implementation for the paper: **"A Dual-Mo
 
 ---
 
+## 💾 Datasets
+
+
+
+* **RGBT-CC:**  The dataset can be downloaded from the **[Official Project Page](https://github.com/chen-judge/RGBTCrowdCounting)**.
+
+* **DroneRGBT:**  The dataset can be downloaded from the **[Official Project Page](https://github.com/VisDrone/DroneRGBT)**.
+
 ## ⚙️ Setup and Installation
 
 Follow these steps to set up the environment and run the project.
